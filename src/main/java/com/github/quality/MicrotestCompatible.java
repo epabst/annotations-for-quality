@@ -1,4 +1,4 @@
-package com.github.testable;
+package com.github.quality;
 
 /**
  * An annotation that a class is able to participate in a micro-test (fast unit test w/ maximum real code) without being awkward.
