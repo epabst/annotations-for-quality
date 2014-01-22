@@ -1,0 +1,4 @@
+group = 'com.github.epabst.annotations'
+version = '1.0-SNAPSHOT'
+
+apply plugin: 'java'
